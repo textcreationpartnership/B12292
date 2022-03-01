@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe ansvvere to certaine obiections against the treatise of faith, made by Ez. Culvervvell Clearing him form the errors of Arminius, vniustly layd to his charge.</title>
+            <author>Culverwell, Ezekiel, 1553 or 4-1631.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1626</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12292</idno>
+            <idno type="STC">STC 6110</idno>
+            <idno type="STC">ESTC S114543</idno>
+            <idno type="EEBO-CITATION">99849768</idno>
+            <idno type="PROQUEST">99849768</idno>
+            <idno type="VID">177911</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12292)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177911)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1269:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe ansvvere to certaine obiections against the treatise of faith, made by Ez. Culvervvell Clearing him form the errors of Arminius, vniustly layd to his charge.</title>
+                  <author>Culverwell, Ezekiel, 1553 or 4-1631.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I.D[awson] for William Sheffard, and are to be sold at his shop at the entrance in cut of Lumbard streete into Popes-head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1626.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Defends Culverwell's "A treatise of faith" (STC 6113.5) against a "Briefe confutation" which was printed but apparently does not survive and whose author Culverwell knew but does not identify--STC.</note>
+                  <note>Most copies are bound with STC 6118.</note>
+                  <note>Printer's full name from STC.</note>
+                  <note>Signatures: A¹² .</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Briefe confutation.</term>
+               <term>Faith --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177911:1"/>
+            <pb facs="tcp:177911:1" rendition="simple:additions"/>
+            <p>A BRIEFE ANSVVERE TO CERTAINE Objections againſt the <hi>Treatiſe of Faith,</hi> made <hi>by</hi> EZ. CVLVERVVELL. Clearing him from the errors of <hi>Arminius,</hi> vnjuſtly layd to <hi>his charge.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>I. D.</hi> for <hi>William Sheffard,</hi> and are to be ſold at his Shop at the entrance in out of <hi>Lumbard</hi> ſtreete into <hi>Popes</hi>-head Alley. 1626.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:177911:2"/>
+            <pb facs="tcp:177911:2"/>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>lthough my great care in ſetting forth <hi>A Treatiſe of Faith,</hi> was to deliver that truth which I gathered out of the holy <hi>Scriptures,</hi> and, keeping in mine eye, the marke I aimed at, To ſtrengthen the weake in faith, I pur<g ref="char:EOLhyphen"/>poſely avoyded all con<g ref="char:EOLhyphen"/>troverſies
+<pb facs="tcp:177911:3"/> which might entangle weake Iudge<g ref="char:EOLhyphen"/>ments: Yet now of late I perceiue, that, as my Labours haue had good approbation of the Learned, and haue beene profitable vnto weake Chriſtians, ſo ſom few haue by ſpeech and writing manifeſted their differing judge<g ref="char:EOLhyphen"/>ments from me, and an hard cenſure of me; which I had purpoſed to paſſe by in ſilence: but meeting of late with a <hi>briefe confutation</hi> in print, of ſome cheife points
+<pb facs="tcp:177911:3"/> in my Booke, which might ſtumble many weake ones, I hold my ſelfe bound in Conſci<g ref="char:EOLhyphen"/>ence to maintaine the truth by me delivered, and to cleare my ſelfe from many vniuſt im<g ref="char:EOLhyphen"/>putations. Wherein paſ<g ref="char:EOLhyphen"/>ſing by the <hi>Author,</hi> and all his intentions, I will touch the principall points gainſayed. This formerly I had done, and ſent to the <hi>Author</hi> before he publiſhed his <hi>Confutation.</hi> Therefore he had no juſt cauſe to make my defect of an<g ref="char:EOLhyphen"/>ſwer
+<pb facs="tcp:177911:4"/> a cauſe of putting his <hi>Confutation to the preſſe,</hi> as he alledgeth in his <hi>Epiſtle to the Reader.</hi>
+            </p>
+            <p>HIS<note n="a" place="margin">pag. 4.</note> firſt exception is againſt theſe words, <hi>Many of Gods children doe not enioy that ſweete life and bleſſed eſtate in this world, which God their Father hath provided for them.</hi> Any in<g ref="char:EOLhyphen"/>different Reader may ſee his groſſe miſtaking herein. For what I ſpeake of Gods bountie in providing meanes, whereby his children might liue more com<g ref="char:EOLhyphen"/>fortably,
+<pb facs="tcp:177911:4" rendition="simple:additions"/> if the fault were not in the<g ref="char:cmbAbbrStroke">̄</g>ſelues, he vnderſta<g ref="char:cmbAbbrStroke">̄</g>ds of Gods Decree, which is vn<g ref="char:EOLhyphen"/>changeable, and cannot be fruſtrated. So that all his Diſcourſe here<g ref="char:EOLhyphen"/>of, as many others, might well haue beene ſpared.</p>
+            <p>The<note n="b" place="margin">pag. 7. 8. &amp;c.</note> ſecond, and in<g ref="char:EOLhyphen"/>deed the onely point in queſtion is, <hi>Whether Sal<g ref="char:EOLhyphen"/>vation in Chriſt, be in the Goſp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll proclaimed and offe<g ref="char:EOLhyphen"/>red in generall to all that heare it, or onely to the El<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct.</hi> The former I hold &amp; proue by moſt evident Scrip<g ref="char:EOLhyphen"/>tures,
+<pb facs="tcp:177911:5" rendition="simple:additions"/> as, I doubt not, the Learned will ap<g ref="char:EOLhyphen"/>proue.</p>
+            <p>Herein I haue, beſide many other Orthodox defenders of the truth, both ancient and mo<g ref="char:EOLhyphen"/>dern, the conſent of that famous <hi>Synod at Dort,</hi> wherein were aſ<g ref="char:EOLhyphen"/>ſembled a great num<g ref="char:EOLhyphen"/>ber of leared <hi>Divines,</hi> out of the Reformed Chur<g ref="char:EOLhyphen"/>ches. Their own words I will ſet downe, that all may ſee how I agree with them.</p>
+            <p>
+               <note place="margin">Chap. 2. Art. 5.</note>
+               <hi>It is the promiſe of the Goſpell, that whoſoeuer be<g ref="char:EOLhyphen"/>leeveth
+<pb facs="tcp:177911:5" rendition="simple:additions"/> in Chriſt crucified, ſhould not periſh, but haue life everlaſting: which promiſe, together with the iniunction of Repentance and faith, ought promiſcuouſly and without di<g ref="char:EOLhyphen"/>ſtinction to be declared and publiſhed to all men, and peo<g ref="char:EOLhyphen"/>ple, to whom God in his good pleaſure ſends the Goſpell.</hi>
+            </p>
+            <p>
+               <hi>But for as much as many being called by the Goſpell,</hi>
+               <note place="margin">Art. 6.</note> 
+               <hi>doe not repent nor beleeue in Chriſt, but periſh in their In<g ref="char:EOLhyphen"/>fidelitie, this comes not to paſſe for want of, or by any inſuffi<g ref="char:EOLhyphen"/>ciency of the ſacrifice of Chriſt offered vpon the Croſſe, but by their owne default.</hi>
+            </p>
+            <pb facs="tcp:177911:6" rendition="simple:additions"/>
+            <p>This ſhall ſuffice for my defe<g ref="char:cmbAbbrStroke">̄</g>ce in this point. As for further Confu<g ref="char:EOLhyphen"/>tation of his arguments to the contrary, it is not my purpoſe to charge the Preſſe with more Controverſies among our ſelues. Onely this I will ſay (which may be a ſufficient anſwere to all his Allegations) that all the Scriptures which reſtraine the me<g ref="char:EOLhyphen"/>rits of Chriſt to ſome onely, are to be vnder<g ref="char:EOLhyphen"/>ſtood of thoſe that ſhall enioy them: but thoſe Scriptures which en<g ref="char:EOLhyphen"/>large
+<pb facs="tcp:177911:6" rendition="simple:additions"/> Chriſts Merits to all, are to be meant of the <hi>Offer</hi> onely, or pro<g ref="char:EOLhyphen"/>claiming them to all, though many of them never partake of Chriſt. So then the <hi>Generall offer</hi> doth not make all par<g ref="char:EOLhyphen"/>takers of Chriſt: nor the <hi>Speciall Partaking of Chriſt,</hi> hinder the gene<g ref="char:EOLhyphen"/>rall offer.</p>
+            <p>By <hi>Offer</hi> I meane one<g ref="char:EOLhyphen"/>ly the <hi>outward Calling by the Goſpell,</hi>
+               <note place="margin">Math. 22.14.</note> which none can deny to belong <hi>to many that are not choſen.</hi> This I affirme to be the onely ordinary ſeed to
+<pb facs="tcp:177911:7" rendition="simple:additions"/> beget ſaving Faith. My Adverſary taketh this <hi>Offer</hi> for a <hi>Promiſe</hi> to haue Chriſt (which I confeſſe that none ſhall haue but the Elect) and ſo he ſpends much la<g ref="char:EOLhyphen"/>bour in vaine.</p>
+            <p>Whereas<note n="c" place="margin">pag. 16. &amp;c.</note> he chalen<g ref="char:EOLhyphen"/>geth all the Scriptures by me alleaged, to proue the <hi>generall Offer,</hi> to be miſapplied, for that he would haue them to be vnderſtood of the <hi>Elect onely,</hi> I muſt referre this alſo to the judgement of the Learned: with ſubmiſſion to their cen<g ref="char:EOLhyphen"/>ſure,
+<pb facs="tcp:177911:7" rendition="simple:additions"/> I profeſſe, I cannot find any one clear place where the VVORLD muſt of neceſſitie be ta<g ref="char:EOLhyphen"/>ken for the ELECT <hi>onely.</hi> For the <hi>wicked</hi> in the world it is oft vſed; and more generally, for all <hi>Mankinde,</hi> as M<hi rend="sup">r</hi> 
+               <hi>Calvin,</hi> with ſundry other great <hi>Divines</hi> vnderſtand it, e<g ref="char:EOLhyphen"/>ven<note n="d" place="margin">Io. 3.16.</note> in the place where he miſalledgeth him to the contrary. In this Scipture <hi>(God ſo loved the World, that he gaue his onely begotten Sonne, that whoſoe<g ref="char:EOLhyphen"/>ver beleeveth in him ſhould not periſh, but haue everla<g ref="char:EOLhyphen"/>ſting
+<pb facs="tcp:177911:8"/> life)</hi> I deſire may be conſidered, if the <hi>World</hi> be not divided into be<g ref="char:EOLhyphen"/>leevers, who ſhall be ſaved, and vnbeleevers who ſhall not be ſaved: which cannot be vn<g ref="char:EOLhyphen"/>derſtood of the <hi>Elect</hi> onely. As for<note n="e" place="margin">Mar. 16.15.</note> this moſt manifeſt ſcripture <hi>preach the Goſpell to every creature</hi>) to vnderſtand the <hi>Elect,</hi> is vnreaſonable. There<g ref="char:EOLhyphen"/>fore I profeſſe that his Accuſation is vniuſt.</p>
+            <p>He commeth<note n="f" place="margin">pag. 20. &amp;c.</note> in the next place to my maine argument, wherein he fowly miſtaketh my
+<pb facs="tcp:177911:8"/> meaning, not well con<g ref="char:EOLhyphen"/>ſidering my words. For what I ſpeake of the knowledg of a pardon <hi>proclaimed,</hi> he vnderſtands of the knowledge of a pardon <hi>embraced,</hi> which belongs onely to a be<g ref="char:EOLunhyphen"/>leever: but the procla<g ref="char:EOLhyphen"/>mation of a pardon, muſt be knowne to an vnbeleever before he can beleeue; which is that that I maintaine.</p>
+            <p>After this<note n="g" place="margin">pag. 26.</note> he obiec<g ref="char:EOLhyphen"/>teth, that <hi>there be many o<g ref="char:EOLhyphen"/>ther ſtrange paſſage;</hi> wher<g ref="char:EOLhyphen"/>in he doth much miſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake my plaine mea<g ref="char:EOLhyphen"/>ning.
+<pb facs="tcp:177911:9"/> One of the ſup<g ref="char:EOLhyphen"/>poſed <hi>ſtrange paſſages</hi> is, that I ſay, <hi>By divers conſi<g ref="char:EOLhyphen"/>derations in a man voyde of faith, faith may be gotten,</hi> as if I meant that this might be effected without the helpe of the Spirit: whereas to ſhew my ſelfe an enemy to <hi>vni<g ref="char:EOLhyphen"/>verſall grace,</hi> and ſo to cleare me from <hi>Arminius</hi> his errors, I plainly ſay, that <hi>None can attaine vnto faith without the ſpeciall grace of Gods Spirit</hi> (pag. 42.82.) to which purpoſe I cite ſundry Scriptures proo<g ref="char:EOLhyphen"/>ving the ſame.</p>
+            <pb facs="tcp:177911:9"/>
+            <p>
+               <note n="h" place="margin">pag. 27.</note>Another of the ob<g ref="char:EOLhyphen"/>jected <hi>ſtrange paſſages</hi> is, that <hi>I make ſorrow for ſinne, and deſire of remedy, cauſes of faith.</hi> But thoſe words are none of mine, they are his collection from theſe words of mine, (pag. 44.) <hi>Vnder the cau<g ref="char:EOLhyphen"/>ſes I comprehend all that work of God, whereby he worketh faith in any.</hi> Vnder that worke of God, among other things, <hi>I mention ſound ſorrow for mans miſery, and fervent deſire after Chriſt the remedy.</hi> Let any indif<g ref="char:EOLhyphen"/>ferent <hi>Reader</hi> now judge if I make not <hi>Gods worke</hi>
+               <pb facs="tcp:177911:10"/> the cauſe of faith: and theſe, with other parti<g ref="char:EOLhyphen"/>culars, ſuch gifts as God worketh in vs before faith.</p>
+            <p>In the next place<note n="i" place="margin">pag. 29.</note> char<g ref="char:EOLhyphen"/>ging me with <hi>Arminianiſ<g ref="char:EOLhyphen"/>me</hi> moſt vnjuſtly; he ta<g ref="char:EOLhyphen"/>keth in hand to confute <hi>Vniverſall Redemption</hi> by many Arguments. But ſeeing I haue purpoſely avoyded that queſtion, and doe from my heart deny, that <hi>every man is ac<g ref="char:EOLhyphen"/>tually reconciled by Chriſt,</hi> and affirme, that <hi>none haue any benefit by Chriſt, but Beleevers and their ſeede:</hi> I
+<pb facs="tcp:177911:10"/> leaue the ſcanning of his arguments to his ad<g ref="char:EOLhyphen"/>verſary whoſoever he be: and I doe here teſti<g ref="char:EOLhyphen"/>fie vnder my hand, to all poſteritie, that I re<g ref="char:EOLhyphen"/>nounce all <hi>Arminius</hi> his errors: and giue my full conſent to the <hi>Synod of Dort.</hi>
+            </p>
+            <p>As for theſe phraſes, (<hi>God hath made a deed of gift, and grant of Chriſt to mankinde,</hi> yea <hi>to all ſinners excepting none,</hi>) and other like to them, which he preſſeth againſt mee, they are to be taken of Gods diſpenſatio<g ref="char:cmbAbbrStroke">̄</g> of his
+<pb facs="tcp:177911:11"/> mind in and by the Go<g ref="char:EOLhyphen"/>ſpell: and ſo much is expreſſed by me (pag 36.) in theſe words; <hi>Making ſo free a grant there<g ref="char:EOLhyphen"/>of,</hi> in the Goſpell, <hi>to all ſinners excepting none.</hi>
+            </p>
+            <p>Any indifferent Rea<g ref="char:EOLhyphen"/>der may ſee, that my maine ſcope is, to draw every one that heareth the Goſpell, to beleeue, by this, that <hi>Chriſt and his benefits be proclaimed to him, and ſhall never be beſtowed on him, vnleſſe he beleeue;</hi> which is far from <hi>Armi<g ref="char:EOLhyphen"/>nius</hi> his errors.</p>
+            <p>Laſtly, where he con<g ref="char:EOLhyphen"/>ceiveth
+<pb facs="tcp:177911:11"/> ſome contradi<g ref="char:EOLhyphen"/>ctions in my Booke, it is cleare they be his co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ceipts, as will evidently appeare by the particu<g ref="char:EOLhyphen"/>lars.</p>
+            <p>Concerning the firſt pretended contradicti<g ref="char:EOLhyphen"/>on, his words are theſe,<note n="k" place="margin">pag. 39.</note> 
+               <hi>You ſay, that all Gods promi<g ref="char:EOLhyphen"/>ſes made to the Elect,</hi> are ab<g ref="char:EOLhyphen"/>ſolute, (pag. 141.) And againe, <hi>Moſt of the free pro<g ref="char:EOLhyphen"/>miſes of the Goſpell be pro<g ref="char:EOLhyphen"/>pounded</hi> with ſome con<g ref="char:EOLhyphen"/>dition. What contradi<g ref="char:EOLhyphen"/>ction is in theſe words? Are theſe termes (<hi>abſolute</hi> &amp; <hi>vpon ſome condition</hi> con<g ref="char:EOLhyphen"/>tradictory)?
+<pb facs="tcp:177911:12"/> Are not the conditions required in the Goſpel, abſolute<g ref="char:EOLhyphen"/>ly promiſed to the E<g ref="char:EOLhyphen"/>lect? The diſtinction which I make of pro<g ref="char:EOLhyphen"/>miſes abſolute and con<g ref="char:EOLhyphen"/>ditionall, ſheweth, that there is no contradic<g ref="char:EOLhyphen"/>tion in thoſe words. Theſe well agree, that <hi>The Elect cannot faile of that which God promiſeth to them,</hi> and <hi>all others to whom God offers ſalvation, ſhall not ob<g ref="char:EOLhyphen"/>taine it, becauſe they beleeue not.</hi>
+            </p>
+            <p>Another pretended contradiction he thus
+<pb facs="tcp:177911:12"/> expreſſeth, <hi>I take it that the manifeſtation of GODS counſell to the heires of pro<g ref="char:EOLhyphen"/>miſe</hi> (pag. 209.) <hi>croſſeth the generall offer.</hi> Who would ſo take it but he? it being Gods eternall counſell to ſaue none but the Elect, which he manifeſteth to <hi>Abraham</hi> and his ſeed according to the Faith; this no<g ref="char:EOLhyphen"/>thing hindereth the ge<g ref="char:EOLhyphen"/>nerall offer, and pro<g ref="char:EOLhyphen"/>clamation of pardon to the Reprobate, to make them inexcuſable for refuſing mercie offe<g ref="char:EOLhyphen"/>red.</p>
+            <pb facs="tcp:177911:13"/>
+            <p>A third pretended contradiction is, that I ſay, <hi>God out of his faithful<g ref="char:EOLhyphen"/>neſſe freely beſtows that which he offereth and ſealeth</hi> (pag. 357.) and that <hi>Many doe not receiue that which is pro<g ref="char:EOLhyphen"/>miſed and ſealed</hi> (pag. 358.) What contradiction is it to ſay, that <hi>Many for want of faith receiue not that which is promiſed?</hi> God faithful<g ref="char:EOLhyphen"/>ly performeth what he offereth in the Word, and ſealeth by the Sa<g ref="char:EOLhyphen"/>craments, but onely to ſuch as by faith receiue both.</p>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:177911:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
